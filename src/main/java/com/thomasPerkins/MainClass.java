@@ -17,7 +17,7 @@ public class MainClass {
 	}
 
 	public static int addTwo(int n) {
-		return n + 2;
+		return addOne(addOne(n));
 	}
 
 	public static int doubleMe(int n) {
