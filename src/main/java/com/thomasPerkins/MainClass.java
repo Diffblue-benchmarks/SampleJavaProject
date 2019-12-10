@@ -14,7 +14,7 @@ public class MainClass {
 	}
 
 	public static String addS(String s) {
-		return s + "s";
+		return s + "ss";
 	}
 
 	public static int addTwo(int n) {
