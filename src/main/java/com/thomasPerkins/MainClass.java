@@ -9,7 +9,7 @@ public class MainClass {
 	}
 
 	public static int addOne(int n) {
-		return n + 1;
+		return n + 2;
 	}
 
 	public static String addS(String s) {
