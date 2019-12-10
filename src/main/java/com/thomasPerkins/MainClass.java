@@ -10,7 +10,7 @@ public class MainClass {
 	}
 
 	public static int addOne(int n) {
-		return n + 2;
+		return n + 1;
 	}
 
 	public static String addS(String s) {
