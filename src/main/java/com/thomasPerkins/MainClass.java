@@ -4,6 +4,7 @@ public class MainClass {
 	public static void main(String[] args){
 		System.out.println(addOne(1));
 		System.out.println(addTwo(1));
+		System.out.println(doubleMe(1));
 		System.out.println(addS("run"));
 	}
 
@@ -17,5 +18,9 @@ public class MainClass {
 
 	public static int addTwo(int n) {
 		return n + 2;
+	}
+
+	public static int doubleMe(int n) {
+		return n * 2;
 	}
 }
